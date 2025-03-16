@@ -1,0 +1,2 @@
+#define SYRENRENDER_API __declspec(dllexport)
+#define SYRENRENDER_API __declspec(dllimport)
